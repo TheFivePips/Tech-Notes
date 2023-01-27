@@ -25,5 +25,6 @@ User Stories for techNotes
     Only Managers and Admins can create new users
     Desktop mode is most important but should be available in mobile
 
+    Here is a link to the front end: https://github.com/TheFivePips/Tech-Notes-Frontend
 
 This is a code along project by Dave Gray
